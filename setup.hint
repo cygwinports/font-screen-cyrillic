@@ -1,0 +1,5 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
+sdesc: "Xorg Cyrillic screen fonts"
+ldesc: "Xorg Cyrillic screen fonts"
+
